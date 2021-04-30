@@ -32,7 +32,7 @@ LOGS.info("Your ʋɛռօʍ ʊֆɛʀɮօȶ is running!")
 
 LOGS.info(
     "Congratulations, the bot is up and running! Send .help in any chat for more info.\n"
-    "If you need assistance, head to https://t.me/CrackMonkeyChats"
+    "If you need assistance, head to https://t.me/CrackMonkey"
 )
 
 if len(argv) not in (1, 3, 4):
