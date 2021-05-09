@@ -11,7 +11,7 @@ CheemsBot is a modular Telegram userbot running on Python 3.8+ with an SQLAlchem
 ## Setting up
 ## Deploy to Heroku
 
-[HEROKU](https://heroku.com/deploy?template=https://github.com/gamerfuckerofficial/CheemsBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ultroidvenom/cheemsbot)
 
 - [Generate session string](https://repl.it/@gamerfuckeroffi/CheemsUserbot)
 - [Setup GDrive module](https://telegra.ph/How-To-Setup-Google-Drive-04-03)
